@@ -22,7 +22,7 @@
 #     or use the QuantumBlack Trademarks in any other manner that might cause
 # confusion in the marketplace, including but not limited to in advertising,
 # on websites, or on software.
-# --Vinod -Test---
+# --Test---
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
